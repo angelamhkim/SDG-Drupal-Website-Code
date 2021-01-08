@@ -1,0 +1,7 @@
+<!-- image inserted into drupal, centered via html due to no native function available -->
+<!-- for some reason, drupal doesn't allow paragraph alignment to center, must do it manually with html code-->
+<p style="text-align:center;"> </p>
+<!-- or -->
+<p align="center;"> </p>
+  <!-- this one sometimes works. -->
+<!-- height of image set to 400px-->
