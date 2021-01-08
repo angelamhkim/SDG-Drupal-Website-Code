@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style type="text/css">
+  /*
+  sdg activities button for all sdgs
+  */
+  table, td, th, {
+    	border: 0px solid #ddd;
+        text-align: left;
+        }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+  th, td {
+    padding: 10px;
+    /*width: 50%;*/
+    vertical-align: top;
+	}
+  td
+  .bold {
+    font-size: 18pt;
+    font-weight: bold;
+    }
+  .bordercenter {
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: center;
+    }
+  .borderjustify {
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: justify;
+    }
+  .borderdotted {
+    border: 1px #ddd;
+    border-style: none none solid none;
+    text-align: justify;
+    }
+  .button1 {
+    background-color: #e5243b;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 20px;
+    }
+  .button1:hover {
+    background-color: #02558b;
+	color: #fff000;
+    text-decoration: none;
+  	}
+  .button1:active {
+    position: relative;
+    top: 1px
+    }
+</style>
+<div>
+  <tr>
+    <td style="text-align: center; min-width: 300px; vertical-align: middle;">
+      <a class="button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform
+      </a>
+    </td>
+    <td style="text-align: center; min-width: 300px; vertical-align: middle;">
+      <a class="button1" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index
+      </a>
+    </td>
+  </tr>
+</div>
+</html>
