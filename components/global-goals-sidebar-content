@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/*
+experimental reactive table for sdg.lamayor.org/global-goals
+Styling for Desktops/Laptops
+*/
+  table, td, th, {
+    border: 0px solid #ddd;
+      text-align: left;
+    }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 6px;
+    /*width: 50%;*/
+    vertical-align: top;
+    text-align: center;
+  }
+  td
+  .bordercenter {
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: center;
+  }
+  .borderjustify {
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: justify;
+  }
+  .borderdotted {
+    border: 1px #ddd;
+    border-style: none none solid none;
+    text-align: justify;
+  }
+  .button1 {
+    background-color: #e5243b;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 10px;
+  }
+  .button2 {
+    background-color: #DDA63A;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 10px;
+  }
+  .button3 {
+    background-color: #4C9F38;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 10px;
+  }
+  .button4 {
+    background-color: #C5192D;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 10px;
+  }
+  .button4:hover {
+    background-color: #02558b;
+  color: #fff000;
+    text-decoration: none;
+  }
+  .button4:active {
+    position: relative;
+    top: 1px
+  }
+  .button11 {
+    background-color: #FD9D24;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 10px;
+  }
+/*
+Max width before this PARTICULAR table gets messed up.
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+
+@media
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr {
+		display: block;
+    text-align: center;
+	}
+  table {
+    	width: 100%;
+        border-collapse: collapse;
+  	}
+  td:before {
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%;
+		padding-right: 10px;
+		white-space: nowrap;
+	}
+}
+</style>
+</head>
+<body>
+
+<h1>Experimental Reactive HTML Table</h1>
+<h2>The 17 Goals</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a class="button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">
+        1. NO POVERTY
+      </a>
+    </td>
+    <td>
+      <a class="button2" href="https://sdgdata.lamayor.org/2/" style="color: white; text-decoration: none;" target="_blank">
+        2. ZERO HUNGER
+      </a>
+    </td>
+    <td>
+      <a class="button3" href="https://sdgdata.lamayor.org/3/" style="color: white; text-decoration: none;" target="_blank">
+        3. GOOD HEALTH & WELL-BEING
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button4" href="https://sdgdata.lamayor.org/4/" style="color: white; text-decoration: none;" target="_blank">
+        <img alt="SDG 4 | United Nations Sustainable Development" src="https://www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-04.png?resize=148%2C148&amp;ssl=1" style="width: 75px; height: 75px;">
+      </a>
+    </td>
+    <td>
+      SDG 5
+    </td>
+    <td>
+      SDG 6
+    </td>
+  </tr>
+  <tr>
+    <td>
+      SDG 7
+    </td>
+    <td>
+      SDG 8
+    </td>
+    <td>
+      SDG 9
+    </td>
+  </tr>
+    <tr>
+    <td>
+      SDG 10
+    </td>
+    <td>
+      <a class="button11" href="https://sdgdata.lamayor.org/11/" style="color: white; text-decoration: none;" target="_blank">
+        <img alt="SDG 11 | Department of Economic and Social Affairs" src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-11.png" style="width: 75px; height: 75px;">
+      </a>
+    </td>
+    <td>SDG 12</td>
+  </tr>
+    <tr>
+    <td>
+      SDG 13
+    </td>
+    <td>
+      SDG 14
+    </td>
+    <td>
+      SDG 15
+    </td>
+  </tr>
+    <tr>
+    <td>
+      SDG 16
+    </td>
+    <td>
+      SDG 17
+    </td>
+    <td>
+      SDG Logo
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
