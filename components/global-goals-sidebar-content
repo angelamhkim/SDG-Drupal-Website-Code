@@ -3,8 +3,8 @@
 <head>
 <style>
 /*
-experimental reactive table for sdg.lamayor.org/global-goals
-Styling for Desktops/Laptops
+Sidebar Content for sdg.lamayor.org/global-goals
+Table
 */
   table, td, th, {
     border: 0px solid #ddd;
@@ -15,194 +15,210 @@ Styling for Desktops/Laptops
     border-collapse: collapse;
   }
   th, td {
-    padding: 6px;
+    padding: 3px;
     /*width: 50%;*/
     vertical-align: top;
-    text-align: center;
+    text-align: left;
   }
   td
-  .bordercenter {
-    border: 1px solid #ddd;
-    border-style: none none solid none;
-    text-align: center;
-  }
-  .borderjustify {
-    border: 1px solid #ddd;
-    border-style: none none solid none;
-    text-align: justify;
-  }
-  .borderdotted {
-    border: 1px #ddd;
-    border-style: none none solid none;
-    text-align: justify;
-  }
-  .button1 {
-    background-color: #e5243b;
+  .button {
     border-radius: 0px;
-    border: 1px solid #dcdcdc;
+    border: .5px solid #dcdcdc;
     display: inline-block;
     color: #ffffff;
     font-size: 15px;
     font-weight: 900;
-    padding: 10px 10px;
+    padding: 5px 10px 5px 10px;
+    width: 100%;
+    text-align: left;
   }
-  .button2 {
-    background-color: #DDA63A;
-    border-radius: 0px;
-    border: 1px solid #dcdcdc;
-    display: inline-block;
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 900;
-    padding: 10px 10px;
-  }
-  .button3 {
-    background-color: #4C9F38;
-    border-radius: 0px;
-    border: 1px solid #dcdcdc;
-    display: inline-block;
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 900;
-    padding: 10px 10px;
-  }
-  .button4 {
-    background-color: #C5192D;
-    border-radius: 0px;
-    border: 1px solid #dcdcdc;
-    display: inline-block;
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 900;
-    padding: 10px 10px;
-  }
-  .button4:hover {
-    background-color: #02558b;
-  color: #fff000;
+  .button:hover {
+    /*
+      color: #fff000;
+      background-color: #02558b;
+    */
+    opacity: .5;
     text-decoration: none;
   }
-  .button4:active {
+  .button:active {
     position: relative;
     top: 1px
   }
+  .button1 {
+    background-color: #e5243b;
+  }
+  .button2 {
+    background-color: #DDA63A;
+  }
+  .button3 {
+    background-color: #4C9F38;
+  }
+  .button4 {
+    background-color: #C5192D;
+  }
+  .button5 {
+    background-color: #EF402B;
+  }
+  .button6 {
+    background-color: #00AED9;
+  }
+  .button7 {
+    background-color: #FDB713;
+  }
+  .button8 {
+    background-color: #8F1838;
+  }
+  .button9 {
+    background-color: #F36D25;
+  }
+  .button10 {
+    background-color: #E11484;
+  }
   .button11 {
     background-color: #FD9D24;
-    border-radius: 0px;
-    border: 1px solid #dcdcdc;
-    display: inline-block;
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 900;
-    padding: 10px 10px;
   }
-/*
-Max width before this PARTICULAR table gets messed up.
-This query will take effect for any screen smaller than 760px
-and also iPads specifically.
-*/
+  .button12 {
+    background-color: #CF8D2A;
+  }
+  .button13 {
+    background-color: #48773E;
+  }
+  .button14 {
+    background-color: #007DBC;
+  }
+  .button15 {
+    background-color: #3EB049;
+  }
+  .button16 {
+    background-color: #02558B;
+  }
+  .button17 {
+    background-color: #183668;
+  }
 
-@media
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
-
-	/* Force table to not be like tables anymore */
-	table, thead, tbody, th, td, tr {
-		display: block;
-    text-align: center;
-	}
-  table {
-    	width: 100%;
-        border-collapse: collapse;
-  	}
-  td:before {
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%;
-		padding-right: 10px;
-		white-space: nowrap;
-	}
-}
 </style>
 </head>
 <body>
 
-<h1>Experimental Reactive HTML Table</h1>
-<h2>The 17 Goals</h2>
+<p><strong>The 17 Goals</strong></p>
 
 <table style="width:100%">
   <tr>
     <td>
-      <a class="button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">
         1. NO POVERTY
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a class="button2" href="https://sdgdata.lamayor.org/2/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button2" href="https://sdgdata.lamayor.org/2/" style="color: white; text-decoration: none;" target="_blank">
         2. ZERO HUNGER
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a class="button3" href="https://sdgdata.lamayor.org/3/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button3" href="https://sdgdata.lamayor.org/3/" style="color: white; text-decoration: none;" target="_blank">
         3. GOOD HEALTH & WELL-BEING
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button4" href="https://sdgdata.lamayor.org/4/" style="color: white; text-decoration: none;" target="_blank">
-        <img alt="SDG 4 | United Nations Sustainable Development" src="https://www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-04.png?resize=148%2C148&amp;ssl=1" style="width: 75px; height: 75px;">
+      <a class="button button4" href="https://sdgdata.lamayor.org/4/" style="color: white; text-decoration: none;" target="_blank;">
+        4. QUALITY EDUCATION
       </a>
-    </td>
-    <td>
-      SDG 5
-    </td>
-    <td>
-      SDG 6
     </td>
   </tr>
   <tr>
     <td>
-      SDG 7
-    </td>
-    <td>
-      SDG 8
-    </td>
-    <td>
-      SDG 9
-    </td>
-  </tr>
-    <tr>
-    <td>
-      SDG 10
-    </td>
-    <td>
-      <a class="button11" href="https://sdgdata.lamayor.org/11/" style="color: white; text-decoration: none;" target="_blank">
-        <img alt="SDG 11 | Department of Economic and Social Affairs" src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-11.png" style="width: 75px; height: 75px;">
+      <a class="button button5" href="https://sdgdata.lamayor.org/5/" style="color: white; text-decoration: none;" target="_blank;">
+        5. GENDER QUALITY
       </a>
     </td>
-    <td>SDG 12</td>
   </tr>
-    <tr>
+  <tr>
     <td>
-      SDG 13
-    </td>
-    <td>
-      SDG 14
-    </td>
-    <td>
-      SDG 15
+      <a class="button button6" href="https://sdgdata.lamayor.org/6/" style="color: white; text-decoration: none;" target="_blank;">
+        6. CLEAN WATER & SANITATION
+      </a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
-      SDG 16
+      <a class="button button7" href="https://sdgdata.lamayor.org/7/" style="color: white; text-decoration: none;" target="_blank;">
+        7. AFFORDABLE & CLEAN ENERGY
+      </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      SDG 17
+      <a class="button button8" href="https://sdgdata.lamayor.org/8/" style="color: white; text-decoration: none;" target="_blank;">
+        8. DECENT WORK & ECONOMIC GROWTH
+      </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      SDG Logo
+      <a class="button button9" href="https://sdgdata.lamayor.org/9/" style="color: white; text-decoration: none;" target="_blank;">
+        9. INDUSTRY, INNOVATION & INFRASTRUCTURE
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button10" href="https://sdgdata.lamayor.org/10/" style="color: white; text-decoration: none;" target="_blank;">
+        10. REDUCED INEQUALITIES
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button11" href="https://sdgdata.lamayor.org/11/" style="color: white; text-decoration: none;" target="_blank">
+        11. SUSTAINABLE CITIES & COMMUNITIES
+      </a>
+    </td>
+  </tr>
+    <td>
+      <a class="button button12" href="https://sdgdata.lamayor.org/12/" style="color: white; text-decoration: none;" target="_blank">
+        12. RESPONSIBLE CONSUMPTION & PRODUCTION
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button13" href="https://sdgdata.lamayor.org/13/" style="color: white; text-decoration: none;" target="_blank">
+        13. CLIMATE ACTION
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button14" href="https://sdgdata.lamayor.org/14/" style="color: white; text-decoration: none;" target="_blank">
+        14. LIFE BELOW WATER
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button15" href="https://sdgdata.lamayor.org/15/" style="color: white; text-decoration: none;" target="_blank">
+        15. LIFE ON LAND
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button16" href="https://sdgdata.lamayor.org/16/" style="color: white; text-decoration: none;" target="_blank">
+        16. PEACE, JUSTICE & STRONG INSTITUTIONS
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="button button17" href="https://sdgdata.lamayor.org/17/" style="color: white; text-decoration: none;" target="_blank">
+        17. PARTNERSHIPS FOR THE GOALS
+      </a>
     </td>
   </tr>
 </table>
