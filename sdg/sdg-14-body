@@ -1,0 +1,53 @@
+<meta charset="UTF-8">
+<style type="text/css">table, td, th, {
+  border: 0px solid #ddd;
+  text-align: left;
+  }
+  table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+  th, td {
+      padding: 10px;
+      /*    width: 50%;
+  */	vertical-align: top;
+  }
+  td.bold {
+      font-size: 18pt;
+      font-weight: bold;
+  }
+  .bordercenter {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: center;
+  }
+  .borderjustify {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: justify;
+  }
+  .borderdotted {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+  }
+.button14 {
+    background-color: #0A97D9;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 20px;
+}
+.button14:hover {
+    background-color: #02558b;
+	color: #fff000;
+text-decoration: none;
+}
+.button14:active {
+    position: relative;
+    top: 1px
+}
+</style>
+<div><table><tbody><tr><td width="98" align="left">[[{"fid":"521","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Life Below Water","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Life Below Water","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Life Below Water","class":"media-element file-default","data-delta":"2"}}]]</td><td><h4><span>Conserve and sustainably use the oceans, seas and marine resources for sustainable development</span></h4><p>Keywords: <i><a href="#coastal">coastal</a>, <a href="#conservation">conservation</a>, <a href="#fisheries">fisheries</a>, <a href="#leastdevelopedcountries">least developed countries</a>, <a href="#marine">marine</a>, <a href="#oceans">oceans</a>, <a href="#research">research</a>, <a href="#resources">resources</a>, <a href="#subsidies">subsidies</a>, <a href="#sustainable">sustainable</a>, <a href="#technology">technology</a></i></p></td></tr></tbody></table><a class="button14" href="https://sdgdata.lamayor.org/14/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform</a> <a class="button14" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a><table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.1</td><td>By 2025, prevent and significantly reduce <a name="marine">marine</a> pollution of all kinds, in particular from land-based activities, including <a name="marine">marine</a> debris and nutrient pollution</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.1.1</td><td>Index of <a name="coastal">coastal</a> eutrophication and floating plastic debris density</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.2</td><td>By 2020, sustainably manage and protect <a name="marine">marine</a> and <a name="coastal">coastal</a> ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive <a name="oceans">oceans</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.2.1</td><td>Proportion of national exclusive economic zones managed using ecosystem-based approaches</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.3</td><td>Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.3.1</td><td>Average <a name="marine">marine</a> acidity (pH) measured at agreed suite of representative sampling stations</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.4</td><td>By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum <a name="sustainable">sustainable</a> yield as determined by their biological characteristics</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.4.1</td><td>Proportion of fish stocks within biologically <a name="sustainable">sustainable</a> levels</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.5</td><td>By 2020, conserve at least 10&nbsp;per&nbsp;cent of <a name="coastal">coastal</a> and <a name="marine">marine</a> areas, consistent with national and international law and based on the best available scientific information</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.5.1</td><td>Coverage of protected areas in relation to <a name="marine">marine</a> areas</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.6</td><td>By 2020, prohibit certain forms of <a name="fisheries">fisheries</a> <a name="subsidies">subsidies</a> which contribute to overcapacity and overfishing, eliminate <a name="subsidies">subsidies</a> that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such <a name="subsidies">subsidies</a>, recognizing that appropriate and effective special and differential treatment for developing and <a name="leastdevelopedcountries">least developed countries</a> should be an integral part of the World Trade Organization <a name="fisheries">fisheries</a> <a name="subsidies">subsidies</a> negotiation</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.6.1</td><td>Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.7</td><td>By 2030, increase the economic benefits to small island developing States and <a name="leastdevelopedcountries">least developed countries</a> from the <a name="sustainable">sustainable</a> use of <a name="marine">marine</a> <a name="resources">resources</a>, including through <a name="sustainable">sustainable</a> management of <a name="fisheries">fisheries</a>, aquaculture and tourism</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.7.1</td><td><a name="sustainable">Sustainable</a> <a name="fisheries">fisheries</a> as a proportion of GDP in small island developing States, <a name="leastdevelopedcountries">least developed countries</a> and all countries</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.a</td><td>Increase scientific knowledge, develop <a name="research">research</a> capacity and transfer <a name="marine">marine</a> <a name="technology">technology</a>, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of <a name="marine">Marine</a> <a name="technology">Technology</a>, in order to improve ocean health and to enhance the contribution of <a name="marine">marine</a> biodiversity to the development of developing countries, in particular small island developing States and <a name="leastdevelopedcountries">least developed countries</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.a.1</td><td>Proportion of total <a name="research">research</a> budget allocated to <a name="research">research</a> in the field of <a name="marine">marine</a> <a name="technology">technology</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.b</td><td>Provide access for small-scale artisanal fishers to <a name="marine">marine</a> <a name="resources">resources</a> and markets</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.b.1</td><td>Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale <a name="fisheries">fisheries</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">14.c</td><td>Enhance the <a name="conservation">conservation</a> and <a name="sustainable">sustainable</a> use of <a name="oceans">oceans</a> and their <a name="resources">resources</a> by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the <a name="conservation">conservation</a> and <a name="sustainable">sustainable</a> use of <a name="oceans">oceans</a> and their <a name="resources">resources</a>, as recalled in paragraph&nbsp;158 of “The future we want”</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">14.c.1</td><td>Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the <a name="conservation">conservation</a> and <a name="sustainable">sustainable</a> use of the <a name="oceans">oceans</a> and their <a name="resources">resources</a></td></tr></tbody></table></td></tr></tbody></table></div>

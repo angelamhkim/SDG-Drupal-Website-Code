@@ -1,0 +1,53 @@
+<meta charset="UTF-8">
+<style type="text/css">table, td, th, {
+  border: 0px solid #ddd;
+  text-align: left;
+  }
+  table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+  th, td {
+      padding: 10px;
+      /*    width: 50%;
+  */	vertical-align: top;
+  }
+  td.bold {
+      font-size: 18pt;
+      font-weight: bold;
+  }
+  .bordercenter {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: center;
+  }
+  .borderjustify {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: justify;
+  }
+   .borderdotted {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+  }
+.button9 {
+    background-color: #FD6925;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 20px;
+}
+.button9:hover {
+    background-color: #02558b;
+	color: #fff000;
+text-decoration: none;
+}
+.button9:active {
+    position: relative;
+    top: 1px
+}
+</style>
+<div><table><tbody><tr><td width="98" align="left">[[{"fid":"476","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Industry, Innovation and Infrastructure","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Industry, Innovation and Infrastructure","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Industry, Innovation and Infrastructure","class":"media-element file-default","data-delta":"2"}}]]</td><td><h4><span>Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</span></h4><p>Keywords: <i><a href="#access">access</a>, <a href="#affordable">affordable</a>, <a href="#developingcountries">developing countries</a>, <a href="#development">development</a>, <a href="#industrial">industrial</a>, <a href="#infrastructure">infrastructure</a>, <a href="#research">research</a>, <a href="#sustainable">sustainable</a>, <a href="#technology">technology</a>, <a href="#valueadded">value added</a> </i></p></td></tr></tbody></table><a class="button9" href="https://sdgdata.lamayor.org/9/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform</a> <a class="button9" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a><table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.1</td><td>Develop quality, reliable, <a name="sustainable">sustainable</a> and resilient <a name="infrastructure">infrastructure</a>, including regional and transborder <a name="infrastructure">infrastructure</a>, to support economic <a name="development">development</a> and human well-being, with a focus on <a name="affordable">affordable</a> and equitable <a name="access">access</a> for all</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.1.1</td><td>Proportion of the rural population who live within 2&nbsp;km of an all-season road</td></tr><tr class="borderdotted"><td class="bold" width="5%">9.1.2</td><td>Passenger and freight volumes, by mode of transport</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.2</td><td>Promote inclusive and <a name="sustainable">sustainable</a> <a name="industrial">industrial</a>ization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.2.1</td><td>Manufacturing <a name="valueadded">value added</a> as a proportion of GDP and per capita</td></tr><tr class="borderdotted"><td class="bold" width="5%">9.2.2</td><td>Manufacturing employment as a proportion of total employment</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.3</td><td>Increase the <a name="access">access</a> of small-scale <a name="industrial">industrial</a> and other enterprises, in particular in <a name="developingcountries">developing countries</a>, to financial services, including <a name="affordable">affordable</a> credit, and their integration into value chains and markets</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.3.1</td><td>Proportion of small-scale industries in total industry <a name="valueadded">value added</a></td></tr><tr class="borderdotted"><td class="bold" width="5%">9.3.2</td><td>Proportion of small-scale industries with a loan or line of credit</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.4</td><td>By 2030, upgrade <a name="infrastructure">infrastructure</a> and retrofit industries to make them <a name="sustainable">sustainable</a>, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and <a name="industrial">industrial</a> processes, with all countries taking action in accordance with their respective capabilities</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.4.1</td><td>CO2 emission per unit of <a name="valueadded">value added</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.5</td><td>Enhance scientific <a name="research">research</a>, upgrade the technological capabilities of <a name="industrial">industrial</a> sectors in all countries, in particular <a name="developingcountries">developing countries</a>, including, by 2030, encouraging innovation and substantially increasing the number of <a name="research">research</a> and <a name="development">development</a> workers per 1&nbsp;million people and public and private <a name="research">research</a> and <a name="development">development</a> spending</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.5.1</td><td><a name="research">Research</a> and <a name="development">development</a> expenditure as a proportion of GDP</td></tr><tr class="borderdotted"><td class="bold" width="5%">9.5.2</td><td><a name="research">Research</a>ers (in full-time equivalent) per million inhabitants</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.a</td><td>Facilitate <a name="sustainable">sustainable</a> and resilient <a name="infrastructure">infrastructure</a> <a name="development">development</a> in <a name="developingcountries">developing countries</a> through enhanced financial, technological and technical support to African countries, least developed countries, landlocked <a name="developingcountries">developing countries</a> and small island developing States</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.a.1</td><td>Total official international support (official <a name="development">development</a> assistance plus other official flows) to <a name="infrastructure">infrastructure</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.b</td><td>Support domestic <a name="technology">technology</a> <a name="development">development</a>, <a name="research">research</a> and innovation in <a name="developingcountries">developing countries</a>, including by ensuring a conducive policy environment for, inter alia, <a name="industrial">industrial</a> diversification and value addition to commodities</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.b.1</td><td>Proportion of medium and high-tech industry <a name="valueadded">value added</a> in total <a name="valueadded">value added</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">9.C</td><td>Significantly increase <a name="access">access</a> to information and communications <a name="technology">technology</a> and strive to provide universal and <a name="affordable">affordable</a> <a name="access">access</a> to the Internet in least developed countries by 2020</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">9.C.1</td><td>Proportion of population covered by a mobile network, by <a name="technology">technology</a></td></tr></tbody></table></td></tr></tbody></table></div>

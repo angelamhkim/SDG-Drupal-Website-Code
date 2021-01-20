@@ -1,0 +1,53 @@
+<meta charset="UTF-8">
+<style type="text/css">table, td, th, {
+  border: 0px solid #ddd;
+  text-align: left;
+  }
+  table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+  th, td {
+      padding: 10px;
+      /*    width: 50%;
+  */	vertical-align: top;
+  }
+  td.bold {
+      font-size: 18pt;
+      font-weight: bold;
+  }
+  .bordercenter {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: center;
+  }
+  .borderjustify {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: justify;
+  }
+  .borderdotted {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+  }
+.button10 {
+    background-color: #DD1367;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 20px;
+}
+.button10:hover {
+    background-color: #02558b;
+	color: #fff000;
+text-decoration: none;
+}
+.button10:active {
+    position: relative;
+    top: 1px
+}
+</style>
+<div><table><tbody><tr><td style="text-align: left" width="98">[[{"fid":"481","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Reduced Inequalities","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Reduced Inequalities","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Reduced Inequalities","class":"media-element file-default","data-delta":"2"}}]]</td><td><h4><span>Reduce inequality within and among countries</span></h4><p>Keywords: <i><a href="#costs">costs</a>, <a href="#developingcountries">developing countries</a>, <a href="#development">development</a>, <a href="#economic">economic</a>, <a href="#financial">financial</a>, <a href="#income">income</a>, <a href="#international">international</a>, <a href="#migration">migration</a>, <a href="#policies">policies</a>, <a href="#socialprotection">social protection</a></i></p></td></tr></tbody></table><a class="button10" href="https://sdgdata.lamayor.org/10/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform</a> <a class="button10" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a><table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><a id="age"></a><table><tbody><tr><td class="bold" width="5%">10.1</td><td>By 2030, progressively achieve and sustain <a name="income">income</a> growth of the bottom 40&nbsp;per&nbsp;cent of the population at a rate higher than the national average</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.1.1</td><td>Growth rates of household expenditure or <a name="income">income</a> per capita among the bottom 40&nbsp;per&nbsp;cent of the population and the total population</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.2</td><td>By 2030, empower and promote the social, <a name="economic">economic</a> and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or <a name="economic">economic</a> or other status</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.2.1</td><td>Proportion of people living below 50&nbsp;per&nbsp;cent of median <a name="income">income</a>, by sex, age and persons with disabilities</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.3</td><td>Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, <a name="policies">policies</a> and practices and promoting appropriate legislation, <a name="policies">policies</a> and action in this regard</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.3.1</td><td>Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under <a name="international">international</a> human rights&nbsp;law</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.4</td><td>Adopt <a name="policies">policies</a>, especially fiscal, wage and <a name="socialprotection">social protection</a> <a name="policies">policies</a>, and progressively achieve greater equality</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.4.1</td><td>Labour share of GDP, comprising wages and <a name="socialprotection">social protection</a> transfers</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.5</td><td>Improve the regulation and monitoring of global <a name="financial">financial</a> markets and institutions and strengthen the implementation of such regulations</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.5.1</td><td><a name="financial">Financial</a> Soundness Indicators</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.6</td><td>Ensure enhanced representation and voice for <a name="developingcountries">developing countries</a> in decision-making in global <a name="international">international</a> <a name="economic">economic</a> and <a name="financial">financial</a> institutions in order to deliver more effective, credible, accountable and legitimate institutions</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.6.1</td><td>Proportion of members and voting rights of <a name="developingcountries">developing countries</a> in <a name="international">international</a> organizations</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.7</td><td>Facilitate orderly, safe, regular and responsible <a name="migration">migration</a> and mobility of people, including through the implementation of planned and well-managed <a name="migration">migration</a> <a name="policies">policies</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.7.1</td><td>Recruitment cost borne by employee as a proportion of monthly <a name="income">income</a> earned in country of destination</td></tr><tr class="borderdotted"><td class="bold" width="5%">10.7.2</td><td>Number of countries with <a name="migration">migration</a> <a name="policies">policies</a> that facilitate orderly, safe, regular and responsible <a name="migration">migration</a> and mobility of people</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.a</td><td>Implement the principle of special and differential treatment for <a name="developingcountries">developing countries</a>, in particular least developed countries, in accordance with World Trade Organization agreements</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.a.1</td><td>Proportion of tariff lines applied to imports from least developed countries and <a name="developingcountries">developing countries</a> with zero-tariff</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.b</td><td>Encourage official <a name="development">development</a> assistance and <a name="financial">financial</a> flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked <a name="developingcountries">developing countries</a>, in accordance with their national plans and programmes</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.b.1</td><td>Total resource flows for <a name="development">development</a>, by recipient and donor countries and type of flow (e.g. official <a name="development">development</a> assistance, foreign direct investment and other flows)</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">10.c</td><td>By 2030, reduce to less than 3&nbsp;per&nbsp;cent the transaction <a name="costs">costs</a> of migrant remittances and eliminate remittance corridors with <a name="costs">costs</a> higher than 5&nbsp;per&nbsp;cent</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">10.c.1</td><td>Remittance <a name="costs">costs</a> as a proportion of the amount remitted</td></tr></tbody></table></td></tr></tbody></table></div>

@@ -1,0 +1,53 @@
+<meta charset="UTF-8">
+<style type="text/css">table, td, th, {
+  border: 0px solid #ddd;
+  text-align: left;
+  }
+  table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+  th, td {
+      padding: 10px;
+      /*    width: 50%;
+  */	vertical-align: top;
+  }
+  td.bold {
+      font-size: 18pt;
+      font-weight: bold;
+  }
+  .bordercenter {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: center;
+  }
+  .borderjustify {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+      text-align: justify;
+  }
+  .borderdotted {
+      border: 1px solid #ddd;
+      border-style: none none solid none;
+  }
+	.button13 {
+    background-color: #3F7E44;
+    border-radius: 0px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px 20px;
+}
+.button13:hover {
+    background-color: #02558b;
+	color: #fff000;
+text-decoration: none;
+}
+.button13:active {
+    position: relative;
+    top: 1px
+}
+</style>
+<div><table><tbody><tr><td width="98" align="left">[[{"fid":"516","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Climate Action","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Climate Action","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Climate Action","class":"media-element file-default","data-delta":"2"}}]]</td><td><h4><span>Take urgent action to combat climate change and its impacts</span></h4><p>Keywords: <i><a href="#adaptation">adaptation</a>, <a href="#capacity">capacity</a>, <a href="#climate">climate</a>, <a href="#climatechange">climate change</a>, <a href="#countries">countries</a>, <a href="#disaster">disaster</a>, <a href="#localandmarginalizedcommunities">local &amp; marginalized communities</a>, <a href="#mitigation">mitigation</a>, <a href="#national">national</a>, <a href="#reduction">reduction</a>, <a href="#strategies">strategies</a> </i></p></td></tr></tbody></table><a class="button13" href="https://sdgdata.lamayor.org/13/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform</a> <a class="button13" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a><table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">13.1</td><td>Strengthen resilience and adaptive <a name="capacity">capacity</a> to <a name="climate">climate</a>-related hazards and natural <a name="disaster">disasters</a> in all <a name="countries">countries</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">13.1.1</td><td>Number of deaths, missing persons and directly affected persons attributed to <a name="disaster">disasters</a> per 100,000 population</td></tr><tr class="borderdotted"><td class="bold" width="5%">13.1.2</td><td>Number of <a name="countries">countries</a> that adopt and implement <a name="national">national</a> disaster risk <a name="reduction">reduction</a> <a name="strategies">strategies</a> in line with the Sendai Framework for Disaster Risk <a name="reduction">Reduction</a> 2015–2030</td></tr><tr class="borderdotted"><td class="bold" width="5%">13.1.3</td><td>Proportion of local governments that adopt and implement local disaster risk <a name="reduction">reduction</a> <a name="strategies">strategies</a> in line with <a name="national">national</a> disaster risk <a name="reduction">reduction</a> <a name="strategies">strategies</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">13.2</td><td>Integrate <a name="climatechange">climate change</a> measures into <a name="national">national</a> policies, <a name="strategies">strategies</a> and planning</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">13.2.1</td><td>Number of <a name="countries">countries</a> that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of <a name="climatechange">climate change</a>, and foster <a name="climate">climate</a> resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a <a name="national">national</a> <a name="adaptation">adaptation</a> plan, nationally determined contribution, <a name="national">national</a> communication, biennial update report or other)</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">13.3</td><td>Improve education, awareness-raising and human and institutional <a name="capacity">capacity</a> on <a name="climatechange">climate change</a> <a name="mitigation">mitigation</a>, <a name="adaptation">adaptation</a>, impact <a name="reduction">reduction</a> and early warning</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">13.3.1</td><td>Number of <a name="countries">countries</a> that have integrated <a name="mitigation">mitigation</a>, <a name="adaptation">adaptation</a>, impact <a name="reduction">reduction</a> and early warning into primary, secondary and tertiary curricula</td></tr><tr class="borderdotted"><td class="bold" width="5%">13.3.2</td><td>Number of <a name="countries">countries</a> that have communicated the strengthening of institutional, systemic and individual <a name="capacity">capacity</a>-building to implement <a name="adaptation">adaptation</a>, <a name="mitigation">mitigation</a> and technology transfer, and development actions</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">13.a</td><td>Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on <a name="climatechange">Climate Change</a> to a goal of mobilizing jointly $100&nbsp;billion annually by 2020 from all sources to address the needs of developing <a name="countries">countries</a> in the context of meaningful <a name="mitigation">mitigation</a> actions and transparency on implementation and fully operationalize the Green <a name="climate">Climate</a> Fund through its capitalization as soon as possible</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">13.a.1</td><td>Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100&nbsp;billion commitment</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">13.b</td><td>Promote mechanisms for raising <a name="capacity">capacity</a> for effective <a name="climatechange">climate change</a>-related planning and management in least developed <a name="countries">countries</a> and small island developing States, including focusing on women, youth and <a name="localandmarginalizedcommunities">local and marginalized communities</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">13.b.1</td><td>Number of least developed <a name="countries">countries</a> and small island developing States that are receiving specialized support, and amount of support, including finance, technology and <a name="capacity">capacity</a>-building, for mechanisms for raising capacities for effective <a name="climatechange">climate change</a>-related planning and management, including focusing on women, youth and <a name="localandmarginalizedcommunities">local and marginalized communities</a></td></tr></tbody></table></td></tr></tbody></table></div>
