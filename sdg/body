@@ -1,36 +1,37 @@
 <meta charset="UTF-8">
-<style type="text/css">table, td, th, {
-border: 0px solid #ddd;
-text-align: left;
-}
-table {
+<style type="text/css">
+  table, td, th, {
+    border: 0px solid #ddd;
+    text-align: left;
+  }
+  table {
     border-collapse: collapse;
     width: 100%;
-}
-th, td {
+  }
+  th, td {
     padding: 10px;
-    /*    width: 50%;
-*/	vertical-align: top;
-}
-td.bold {
+    /*    width: 50%;*/
+    vertical-align: top;
+  }
+  td.bold {
     font-size: 18pt;
     font-weight: bold;
-}
-.bordercenter {
+  }
+  .bordercenter {
     border: 1px solid #ddd;
     border-style: none none solid none;
     text-align: center;
-}
-.borderjustify {
+  }
+  .borderjustify {
     border: 1px solid #ddd;
     border-style: none none solid none;
     text-align: justify;
-}
-.borderdotted {
+  }
+  .borderdotted {
     border: 1px #ddd;
     border-style: none none solid none;
     text-align: justify;
-}
+  }
 		.button1 {
     background-color: #e5243b;
     border-radius: 0px;
@@ -40,14 +41,59 @@ td.bold {
     font-size: 15px;
     font-weight: 900;
     padding: 10px 20px;
-}
-.button1:hover {
+  }
+  .button1:hover {
     background-color: #02558b;
-	color: #fff000;
-text-decoration: none;
-}
-.button1:active {
+    color: #fff000;
+    text-decoration: none;
+  }
+  .button1:active {
     position: relative;
     top: 1px
-}
+  }
 </style>
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td width="98" align="left">[[{"fid":"491","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"No Poverty","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"1":{"format":"default","field_file_image_alt_text[und][0][value]":"No Poverty","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"No Poverty","class":"media-element file-default","data-delta":"1"}}]]
+        </td>
+        <td>
+          <h4>
+            <span>End poverty in all its forms everywhere</span>
+          </h4>
+          <p>Keywords:
+            <i>
+              <a href="#children">children</a>,
+              <a href="#disaster">disaster</a>,
+              <a href="#government">government</a>,
+              <a href="#land">land</a>,
+              <a href="#national">national</a>,
+              <a href="#persons">persons</a>,
+              <a href="#poverty">poverty</a>,
+              <a href="#proportionofpopulation">proportion of population</a>,
+              <a href="#resources">resources</a>,
+              <a href="#socialprotection">social protection</a>,
+              <a href="#thepoorandthevulnerable">the poor and the vulnerable</a>,
+              <a href="#women">women</a>
+            </i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr>
+        <!--so at this point add </tr></tbody></table><tbody><tr> so the keywords aren't squished
+        put the two buttons in the same table cell
+        also image should be 100x100 px
+      -->
+        <td style="text-align: center; min-width: 300px; vertical-align: middle;">
+          <a class="button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">SDG Data Reporting Platform</a>
+          <a class="button1" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead><tr class="bordercenter"><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.1</td><td>By 2030, eradicate extreme <a name="poverty">poverty</a> for all people everywhere, currently measured as people living on less than $1.25 a day</td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.1.1</td><td><a name="proportionofpopulation">Proportion of population</a> below the international <a name="poverty">poverty</a> line, by sex, age, employment status and geographical location (urban/rural)</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.2</td><td>By 2030, reduce at least by half the proportion of men, <a name="women">women</a> and <a name="children">children</a> of all ages living in <a name="poverty">poverty</a> in all its dimensions according to <a name="national">national</a> definitions</td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.2.1</td><td><a name="proportionofpopulation">Proportion of population</a> living below the <a name="national">national</a> <a name="poverty">poverty</a> line, by sex and age</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.2.2</td><td>Proportion of men, <a name="women">women</a> and <a name="children">children</a> of all ages living in <a name="poverty">poverty</a> in all its dimensions according to <a name="national">national</a> definitions</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.3</td><td>Implement nationally appropriate <a name="socialprotection">social protection</a> systems and measures for all, including floors, and by 2030 achieve substantial coverage of <a name="thepoorandthevulnerable">the poor and the vulnerable</a></td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.3.1</td><td><a name="proportionofpopulation">Proportion of population</a> covered by <a name="socialprotection">social protection</a> floors/systems, by sex, distinguishing <a name="children">children</a>, unemployed <a name="persons">persons</a>, older <a name="persons">persons</a>, <a name="persons">persons</a> with disabilities, pregnant <a name="women">women</a>, newborns, work-injury victims and <a name="thepoorandthevulnerable">the poor and the vulnerable</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.4</td><td>By 2030, ensure that all men and <a name="women">women</a>, in particular <a name="thepoorandthevulnerable">the poor and the vulnerable</a>, have equal rights to economic <a name="resources">resources</a>, as well as access to basic services, ownership and control over <a name="land">land</a> and other forms of property, inheritance, natural <a name="resources">resources</a>, appropriate new technology and financial services, including microfinance</td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.4.1</td><td><a name="proportionofpopulation">Proportion of population</a> living in households with access to basic services</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.4.2</td><td>Proportion of total adult population with secure tenure rights to <a name="land">land</a>, (a) with legally recognized documentation, and (b) who perceive their rights to <a name="land">land</a> as secure, by sex and type of tenure</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.5</td><td>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and <a name="disaster">disasters</a></td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.5.1</td><td>Number of deaths, missing <a name="persons">persons</a> and directly affected <a name="persons">persons</a> attributed to <a name="disaster">disasters</a> per 100,000 population</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.5.2</td><td>Direct economic loss attributed to <a name="disaster">disasters</a> in relation to global gross domestic product (GDP)</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.5.3</td><td>Number of countries that adopt and implement <a name="national">national</a> <a name="disaster">disaster</a> risk reduction strategies in line with the Sendai Framework for <a name="disaster">Disaster</a> Risk Reduction 2015–2030</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.5.4</td><td>Proportion of local <a name="government">governments</a> that adopt and implement local <a name="disaster">disaster</a> risk reduction strategies in line with <a name="national">national</a> <a name="disaster">disaster</a> risk reduction strategies</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.a</td><td>Ensure significant mobilization of <a name="resources">resources</a> from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end <a name="poverty">poverty</a> in all its dimensions</td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.a.1</td><td>Proportion of domestically generated <a name="resources">resources</a> allocated by the <a name="government">government</a> directly to <a name="poverty">poverty</a> reduction programmes</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.a.2</td><td>Proportion of total <a name="government">government</a> spending on essential services (education, health and <a name="socialprotection">social protection</a>)</td></tr><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.a.3</td><td>Sum of total grants and non-debt-creating inflows directly allocated to <a name="poverty">poverty</a> reduction programmes as a proportion of GDP</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">1.b</td><td>Create sound policy frameworks at the <a name="national">national</a>, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in <a name="poverty">poverty</a> eradication actions</td></tr></tbody></table></td><td><table><tbody><tr style="border: 1px solid #ddd; border-style: none none dotted none"><td class="bold" width="5%">1.b.1</td><td>Proportion of <a name="government">government</a> recurrent and capital spending to sectors that disproportionately benefit <a name="women">women</a>, the poor and vulnerable groups</td></tr></tbody></table></td></tr></tbody></table></div>
