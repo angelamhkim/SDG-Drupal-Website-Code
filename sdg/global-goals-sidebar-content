@@ -5,6 +5,7 @@
 /*
 Sidebar Content for sdg.lamayor.org/global-goals
 Table
+Note: CSS from this affects all HTML on the webpage, not just in the sidebar module.
 */
   table, td, th, {
     border: 0px solid #ddd;
