@@ -28,10 +28,11 @@ Note: CSS from this affects all HTML on the webpage, not just in the sidebar mod
     display: inline-block;
     color: #ffffff;
     font-size: 15px;
-    font-weight: 900;
     padding: 5px 10px 5px 10px;
     width: 100%;
     text-align: left;
+    text-decoration: none;
+    font-weight: bold;
   }
   .button:hover {
     /*
@@ -40,6 +41,7 @@ Note: CSS from this affects all HTML on the webpage, not just in the sidebar mod
     */
     opacity: .5;
     text-decoration: none;
+    color: white;
   }
   .button:active {
     position: relative;
@@ -106,118 +108,118 @@ Note: CSS from this affects all HTML on the webpage, not just in the sidebar mod
 <table style="width:100%">
   <tr>
     <td>
-      <a class="button button1" href="https://sdgdata.lamayor.org/1/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button1" href="https://sdgdata.lamayor.org/1/" target="_blank">
         1. NO POVERTY
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button2" href="https://sdgdata.lamayor.org/2/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button2" href="https://sdgdata.lamayor.org/2/" target="_blank">
         2. ZERO HUNGER
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button3" href="https://sdgdata.lamayor.org/3/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button3" href="https://sdgdata.lamayor.org/3/" target="_blank">
         3. GOOD HEALTH & WELL-BEING
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button4" href="https://sdgdata.lamayor.org/4/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button4" href="https://sdgdata.lamayor.org/4/" target="_blank;">
         4. QUALITY EDUCATION
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button5" href="https://sdgdata.lamayor.org/5/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button5" href="https://sdgdata.lamayor.org/5/" target="_blank;">
         5. GENDER QUALITY
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button6" href="https://sdgdata.lamayor.org/6/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button6" href="https://sdgdata.lamayor.org/6/" target="_blank;">
         6. CLEAN WATER & SANITATION
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button7" href="https://sdgdata.lamayor.org/7/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button7" href="https://sdgdata.lamayor.org/7/" target="_blank;">
         7. AFFORDABLE & CLEAN ENERGY
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button8" href="https://sdgdata.lamayor.org/8/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button8" href="https://sdgdata.lamayor.org/8/" target="_blank;">
         8. DECENT WORK & ECONOMIC GROWTH
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button9" href="https://sdgdata.lamayor.org/9/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button9" href="https://sdgdata.lamayor.org/9/" target="_blank;">
         9. INDUSTRY, INNOVATION & INFRASTRUCTURE
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button10" href="https://sdgdata.lamayor.org/10/" style="color: white; text-decoration: none;" target="_blank;">
+      <a class="button button10" href="https://sdgdata.lamayor.org/10/" target="_blank;">
         10. REDUCED INEQUALITIES
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button11" href="https://sdgdata.lamayor.org/11/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button11" href="https://sdgdata.lamayor.org/11/" target="_blank">
         11. SUSTAINABLE CITIES & COMMUNITIES
       </a>
     </td>
   </tr>
     <td>
-      <a class="button button12" href="https://sdgdata.lamayor.org/12/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button12" href="https://sdgdata.lamayor.org/12/" target="_blank">
         12. RESPONSIBLE CONSUMPTION & PRODUCTION
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button13" href="https://sdgdata.lamayor.org/13/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button13" href="https://sdgdata.lamayor.org/13/" target="_blank">
         13. CLIMATE ACTION
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button14" href="https://sdgdata.lamayor.org/14/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button14" href="https://sdgdata.lamayor.org/14/" target="_blank">
         14. LIFE BELOW WATER
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button15" href="https://sdgdata.lamayor.org/15/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button15" href="https://sdgdata.lamayor.org/15/" target="_blank">
         15. LIFE ON LAND
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button16" href="https://sdgdata.lamayor.org/16/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button16" href="https://sdgdata.lamayor.org/16/" target="_blank">
         16. PEACE, JUSTICE & STRONG INSTITUTIONS
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a class="button button17" href="https://sdgdata.lamayor.org/17/" style="color: white; text-decoration: none;" target="_blank">
+      <a class="button button17" href="https://sdgdata.lamayor.org/17/" target="_blank">
         17. PARTNERSHIPS FOR THE GOALS
       </a>
     </td>

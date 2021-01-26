@@ -1,34 +1,35 @@
 <meta charset="UTF-8">
-<style type="text/css">table, td, th, {
-  border: 0px solid #ddd;
-  text-align: left;
+<style type="text/css">
+  table, td, th, {
+    border: 0px solid #ddd;
+    text-align: left;
   }
   table {
-      border-collapse: collapse;
-      width: 100%;
+    border-collapse: collapse;
+    width: 100%;
   }
   th, td {
-      padding: 10px;
-      /*    width: 50%;
-  */	vertical-align: top;
+    padding: 10px;
+    /*    width: 50%;*/
+    vertical-align: top;
   }
   td.bold {
-      font-size: 18pt;
-      font-weight: bold;
+    font-size: 18pt;
+    font-weight: bold;
   }
   .bordercenter {
-      border: 1px solid #ddd;
-      border-style: none none solid none;
-      text-align: center;
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: center;
   }
   .borderjustify {
-      border: 1px solid #ddd;
-      border-style: none none solid none;
-      text-align: justify;
+    border: 1px solid #ddd;
+    border-style: none none solid none;
+    text-align: justify;
   }
-   .borderdotted {
-      border: 1px solid #ddd;
-      border-style: none none solid none;
+  .borderdotted {
+    border: 1px solid #ddd;
+    border-style: none none solid none;
   }
 	.button5 {
     background-color: #FF3A21;
@@ -39,15 +40,51 @@
     font-size: 15px;
     font-weight: 900;
     padding: 10px 20px;
-}
-.button5:hover {
-    background-color: #02558b;
-	color: #fff000;
-text-decoration: none;
-}
-.button5:active {
+  }
+  .button5:hover {
+    opacity: .5;
+    color: #fff000;
+    text-decoration: none;
+  }
+  .button5:active {
     position: relative;
     top: 1px
-}
+  }
+  .placeholder {
+    visibility: hidden;
+  }
 </style>
-<div><table><tbody><tr><td style="text-align: left" width="98">[[{"fid":"451","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Clean Water and Sanitation","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Clean Water and Sanitation","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Clean Water and Sanitation","class":"media-element file-default","data-delta":"2"}}]]</td><td><h4><span>Achieve gender equality and empower all women and girls</span></h4><p>Keywords: <i><a href="#age">age</a>, <a href="#care">care</a>, <a href="#girls">girls</a>, <a href="#land">land</a>, <a href="#public">public</a>, <a href="#reproductivehealth">reproductive health</a>, <a href="#rights">rights</a>, <a href="#sexual">sexual</a>, <a href="#violence">violence</a>, <a href="#women">women</a></i></p></td></tr></tbody></table><a class="button5" href="https://sdgdata.lamayor.org/5/" style="text-decoration: none; color: white;" target="_blank">SDG Data Reporting Platform</a> <a class="button5" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a><table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.1</td><td>End all forms of discrimination against all <a name="women">women</a> and <a name="girls">girls</a> everywhere</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.1.1</td><td>Whether or not legal frameworks are in place to&nbsp;promote, enforce and monitor equality and non‑discrimination on the basis of sex</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.2</td><td>Eliminate all forms of <a name="violence">violence</a> against all <a name="women">women</a> and <a name="girls">girls</a> in the <a name="public">public</a> and private spheres, including trafficking and <a name="sexual">sexual</a> and other types of exploitation</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.2.1</td><td>Proportion of ever-partnered <a name="women">women</a> and <a name="girls">girls</a> aged 15&nbsp;years and older subjected to physical, <a name="sexual">sexual</a> or psychological <a name="violence">violence</a> by a current or former intimate partner in the previous 12 months, by form of <a name="violence">violence</a> and by age</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.2.2</td><td>Proportion of <a name="women">women</a> and <a name="girls">girls</a> aged 15&nbsp;years and older subjected to <a name="sexual">sexual</a> <a name="violence">violence</a> by persons other than an&nbsp;intimate partner in the previous 12&nbsp;months, by <a name="age">age</a> and place of occurrence</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.3</td><td>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.3.1</td><td>Proportion of <a name="women">women</a> aged 20–24&nbsp;years who were married or in a union before <a name="age">age</a> 15 and before <a name="age">age</a> 18</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.3.2</td><td>Proportion of <a name="girls">girls</a> and <a name="women">women</a> aged 15–49&nbsp;years who have undergone female genital mutilation/cutting, by&nbsp;<a name="age">age</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.4</td><td>Recognize and value unpaid <a name="care">care</a> and domestic work through the provision of <a name="public">public</a> services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.4.1</td><td>Proportion of time spent on unpaid domestic and <a name="care">care</a> work, by sex, <a name="age">age</a> and location</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.5</td><td>Ensure <a name="women">women</a>’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and <a name="public">public</a> life</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.5.1</td><td>Proportion of seats held by <a name="women">women</a> in (a) national parliaments and (b) local governments</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.5.2</td><td>Proportion of <a name="women">women</a> in managerial positions</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.6</td><td>Ensure universal access to <a name="sexual">sexual</a> and <a name="reproductivehealth">reproductive health</a> and reproductive <a name="rights">rights</a> as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.6.1</td><td>Proportion of <a name="women">women</a> aged 15–49&nbsp;years who make their own informed decisions regarding <a name="sexual">sexual</a> relations, contraceptive use and <a name="reproductivehealth">reproductive health</a> <a name="care">care</a></td></tr><tr class="borderdotted"><td class="bold" width="5%">5.6.2</td><td>Number of countries with laws and regulations that guarantee full and equal access to <a name="women">women</a> and men aged 15&nbsp;years and older to <a name="sexual">sexual</a> and <a name="reproductivehealth">reproductive health</a> <a name="care">care</a>, information and education</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.a</td><td>Undertake reforms to give <a name="women">women</a> equal <a name="rights">rights</a> to economic resources, as well as access to ownership and control over <a name="land">land</a> and other forms of property, financial services, inheritance and natural resources, in accordance with national laws</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.a.1</td><td>(a) Proportion of total agricultural population with ownership or secure <a name="rights">rights</a> over agricultural <a name="land">land</a>, by sex; and (b) share of <a name="women">women</a> among owners or <a name="rights">rights</a>-bearers of agricultural <a name="land">land</a>, by type of tenure</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.a.2</td><td>Proportion of countries where the legal framework (including customary law) guarantees <a name="women">women</a>’s equal <a name="rights">rights</a> to <a name="land">land</a> ownership and/or control</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.b</td><td>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of <a name="women">women</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.b.1</td><td>Proportion of individuals who own a mobile telephone, by sex</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.c</td><td>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all <a name="women">women</a> and <a name="girls">girls</a> at all levels</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.c.1</td><td>Proportion of countries with systems to track and make <a name="public">public</a> allocations for gender equality and <a name="women">women</a>’s empowerment</td></tr></tbody></table></td></tr></tbody></table></div>
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left" width="98">[[{"fid":"451","view_mode":"default","fields":{"format":"default","field_file_image_alt_text[und][0][value]":"Clean Water and Sanitation","field_file_image_title_text[und][0][value]":false},"type":"media","field_deltas":{"2":{"format":"default","field_file_image_alt_text[und][0][value]":"Clean Water and Sanitation","field_file_image_title_text[und][0][value]":false}},"attributes":{"alt":"Clean Water and Sanitation","class":"media-element file-default","data-delta":"2"}}]]
+        </td>
+        <td>
+          <h4>
+            <span>Achieve gender equality and empower all women and girls</span>
+          </h4>
+          <p>Keywords:
+            <i>
+              <a href="#age">age</a>,
+              <a href="#care">care</a>,
+              <a href="#girls">girls</a>,
+              <a href="#land">land</a>,
+              <a href="#public">public</a>,
+              <a href="#reproductivehealth">reproductive health</a>,
+              <a href="#rights">rights</a>,
+              <a href="#sexual">sexual</a>,
+              <a href="#violence">violence</a>,
+              <a href="#women">women</a>
+              <a class="placeholder">placeholder_placeholder_placeholder_placeholder_placeholder</a>
+            </i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <!--trying to make whitespace here
+-->
+  <a class="button5" href="https://sdgdata.lamayor.org/5/" style="text-decoration: none; color: white;" target="_blank">SDG Data Reporting Platform</a>
+  <a class="button5" href="https://sdg.lamayor.org/activities-index" style="color: white; text-decoration: none;" target="_blank">SDG Activities Index</a>
+  <table width="100%" cellspacing="0" cellpadding="20" border="0"><tbody><tr><td>The targets and indicators noted below reflect the language, as adopted, by the <a href="https://sustainabledevelopment.un.org" target="_blank">United Nations</a>. The City of L.A. localized targets are noted on the local <a href="https://sdgdata.lamayor.org/" target="_blank">SDG data reporting platform</a>.</td></tr></tbody></table><table><thead class="bordercenter"><tr><th width="50%"><h3>Target</h3></th><th width="50%"><h3>Indicators</h3></th></tr></thead><tbody><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.1</td><td>End all forms of discrimination against all <a name="women">women</a> and <a name="girls">girls</a> everywhere</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.1.1</td><td>Whether or not legal frameworks are in place to&nbsp;promote, enforce and monitor equality and non‑discrimination on the basis of sex</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.2</td><td>Eliminate all forms of <a name="violence">violence</a> against all <a name="women">women</a> and <a name="girls">girls</a> in the <a name="public">public</a> and private spheres, including trafficking and <a name="sexual">sexual</a> and other types of exploitation</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.2.1</td><td>Proportion of ever-partnered <a name="women">women</a> and <a name="girls">girls</a> aged 15&nbsp;years and older subjected to physical, <a name="sexual">sexual</a> or psychological <a name="violence">violence</a> by a current or former intimate partner in the previous 12 months, by form of <a name="violence">violence</a> and by age</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.2.2</td><td>Proportion of <a name="women">women</a> and <a name="girls">girls</a> aged 15&nbsp;years and older subjected to <a name="sexual">sexual</a> <a name="violence">violence</a> by persons other than an&nbsp;intimate partner in the previous 12&nbsp;months, by <a name="age">age</a> and place of occurrence</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.3</td><td>Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.3.1</td><td>Proportion of <a name="women">women</a> aged 20–24&nbsp;years who were married or in a union before <a name="age">age</a> 15 and before <a name="age">age</a> 18</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.3.2</td><td>Proportion of <a name="girls">girls</a> and <a name="women">women</a> aged 15–49&nbsp;years who have undergone female genital mutilation/cutting, by&nbsp;<a name="age">age</a></td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.4</td><td>Recognize and value unpaid <a name="care">care</a> and domestic work through the provision of <a name="public">public</a> services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.4.1</td><td>Proportion of time spent on unpaid domestic and <a name="care">care</a> work, by sex, <a name="age">age</a> and location</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.5</td><td>Ensure <a name="women">women</a>’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and <a name="public">public</a> life</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.5.1</td><td>Proportion of seats held by <a name="women">women</a> in (a) national parliaments and (b) local governments</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.5.2</td><td>Proportion of <a name="women">women</a> in managerial positions</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.6</td><td>Ensure universal access to <a name="sexual">sexual</a> and <a name="reproductivehealth">reproductive health</a> and reproductive <a name="rights">rights</a> as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.6.1</td><td>Proportion of <a name="women">women</a> aged 15–49&nbsp;years who make their own informed decisions regarding <a name="sexual">sexual</a> relations, contraceptive use and <a name="reproductivehealth">reproductive health</a> <a name="care">care</a></td></tr><tr class="borderdotted"><td class="bold" width="5%">5.6.2</td><td>Number of countries with laws and regulations that guarantee full and equal access to <a name="women">women</a> and men aged 15&nbsp;years and older to <a name="sexual">sexual</a> and <a name="reproductivehealth">reproductive health</a> <a name="care">care</a>, information and education</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.a</td><td>Undertake reforms to give <a name="women">women</a> equal <a name="rights">rights</a> to economic resources, as well as access to ownership and control over <a name="land">land</a> and other forms of property, financial services, inheritance and natural resources, in accordance with national laws</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.a.1</td><td>(a) Proportion of total agricultural population with ownership or secure <a name="rights">rights</a> over agricultural <a name="land">land</a>, by sex; and (b) share of <a name="women">women</a> among owners or <a name="rights">rights</a>-bearers of agricultural <a name="land">land</a>, by type of tenure</td></tr><tr class="borderdotted"><td class="bold" width="5%">5.a.2</td><td>Proportion of countries where the legal framework (including customary law) guarantees <a name="women">women</a>’s equal <a name="rights">rights</a> to <a name="land">land</a> ownership and/or control</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.b</td><td>Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of <a name="women">women</a></td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.b.1</td><td>Proportion of individuals who own a mobile telephone, by sex</td></tr></tbody></table></td></tr><tr class="borderjustify"><td><table><tbody><tr><td class="bold" width="5%">5.c</td><td>Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all <a name="women">women</a> and <a name="girls">girls</a> at all levels</td></tr></tbody></table></td><td><table><tbody><tr class="borderdotted"><td class="bold" width="5%">5.c.1</td><td>Proportion of countries with systems to track and make <a name="public">public</a> allocations for gender equality and <a name="women">women</a>’s empowerment</td></tr></tbody></table></td></tr></tbody></table></div>
