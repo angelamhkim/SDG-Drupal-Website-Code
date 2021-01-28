@@ -32,7 +32,7 @@
     border-style: none none solid none;
     text-align: justify;
   }
-		.button1 {
+  .button1 {
     background-color: #e5243b;
     border-radius: 0px;
     border: 1px solid #dcdcdc;
