@@ -1,1 +1,84 @@
-<p><br>&nbsp;<br>&nbsp;<br>&nbsp;</p><p style="line-height: inherit;"><font style="background:#0083BF; padding:10px; font-weight:bold" size="7" color="white">GET INVOLVED</font></p><p><br>&nbsp;<br>&nbsp;</p><table><tbody><tr><td width="70%">Everyone can contribute to making sure the Global Goals are met in the City of Los Angeles. Here you can read more about how the City is implementing the Goals, find organizations to support and work with and information to share. If your organization works on advancing any of the Goals, let us know! Anyone can improve our city. Join the movement.</td><td width="30%">&nbsp;</td></tr></tbody></table><table><tbody><tr><td style="text-align: center;" width="5%">&nbsp;</td><td width="70%"><a href="https://sdgdata.lamayor.org/" style="font-weight:bold; color:#0083BF; font-size:35px;" target="_blank">↗ CONTRIBUTE DATA</a><br><a href="https://sdg.lamayor.org/activities-index" style="font-weight:bold; color:#0083BF; font-size:35px;">↗ SUBMIT AN SDG ACTIVITY</a>&nbsp;<br><a href="https://sdg.lamayor.org/contact" style="color:#0083BF; font-weight:bold; font-size:35px;">↗ CONTACT US</a></td><td width="25%">&nbsp;</td></tr></tbody></table><p><br>&nbsp;<br><br>&nbsp;</p><table><tbody><tr><td width="20%">&nbsp;</td><td width="60%"><p>&nbsp;</p><center><hr style="background:#0083BF; opacity:0.8" size="2"><font size="5" color="#606060">"Los Angeles can, should, and will lead in building the healthier and more prosperous world that we dream of for our children and grandchildren." - Mayor Eric Garcetti</font></center><p>&nbsp;</p></td><td width="20%">&nbsp;</td></tr></tbody></table><p>&nbsp;</p><p><br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+<!--
+This document supplements the Figma Style Guide for sdg.lamayor.org.
+It contains the code to create these headings within Drupal 7.
+-->
+
+<!--
+Heading 1
+-->
+<br>&nbsp; <!--Divider-->
+<p style="line-height: inherit;">
+  <font style="background:#0083BF; padding:10px; font-weight:bold" size="7" color="white">HEADING 1
+  </font>
+</p>
+<br>&nbsp; <!--Divider-->
+<!--
+Heading 2
+-->
+<br>&nbsp; <!--Divider-->
+<h1 size="7" style="text-align: center;">HEADING 2
+</h1> <!-- this isn't heading 2 -->
+<p>&nbsp; <!-- this is a space -->
+</p>
+<p style="color: #0083BF; text-align: center;">────────
+</p>
+<br>&nbsp; <!--Divider-->
+<!--
+Heading 3
+-->
+<br>&nbsp; <!--Divider-->
+<p align="left">
+  <font size="6">Heading 3
+  </font>
+</p>
+<p style="color: rgb(16, 162, 198)">────────
+</p>
+<br>&nbsp; <!--Divider-->
+<!--
+Heading 4
+-->
+
+<!--
+Heading 5
+-->
+
+<!--
+Heading 6
+-->
+
+<!--
+Body 1
+-->
+
+Body 1
+
+<!--
+Body 2
+-->
+
+<!--
+Body 3
+-->
+
+<!--
+Hyperlink
+-->
+
+<!--
+Quote
+-->
+<br>&nbsp; <!--Divider-->
+<center>
+  <!-- <hr style="background:#0083BF; opacity:0.8" size="2">
+  -->
+  <font size="5" color="#606060">"Quote." - Mayor
+  </font>
+</center>
+<br>&nbsp; <!--Divider-->
+<!--
+Button & Meta
+-->
+<br>&nbsp; <!--Divider-->
+<a href="https://sdgdata.lamayor.org/" style="font-weight:bold; color:#0083BF; font-size:35px;" target="_blank">↗ BUTTON & META
+</a>
+<br>&nbsp; <!--Divider-->
