@@ -7,58 +7,45 @@ It contains the code to create these headings within Drupal 7.
 Heading 1
 -->
 <br>&nbsp; <!--Divider-->
-<p style="line-height: inherit;">
-  <font style="background:#0083BF; padding:10px; font-weight:bold" size="7" color="white">HEADING 1
-  </font>
+<h1 size="7" style="text-align: center;">HEADING 1
+</h1>
+<p style="color: #0083BF; text-align: center;">────────
 </p>
 <br>&nbsp; <!--Divider-->
 <!--
 Heading 2
 -->
 <br>&nbsp; <!--Divider-->
-<h1 size="7" style="text-align: center;">HEADING 2
-</h1> <!-- this isn't heading 2 -->
-</p>
-<p style="color: #0083BF; text-align: center;">────────
-</p>
+<h2 style="line-height: inherit;">
+  <font style="background:#0083BF; padding:10px; font-weight:bold" size="7" color="white">HEADING 2
+  </font>
+</h2>
 <br>&nbsp; <!--Divider-->
 <!--
 Heading 3
 -->
 <br>&nbsp; <!--Divider-->
-<p align="left">
+<h3 align="left">
   <font size="6">Heading 3
   </font>
-</p>
-<p style="color: rgb(16, 162, 198)">────────
-</p>
+</h3>
 <br>&nbsp; <!--Divider-->
 <!--
 Heading 4
 -->
-
+<br>&nbsp; <!--Divider-->
+<h4 align="left">
+  Heading 4
+</h4>
+<br>&nbsp; <!--Divider-->
 <!--
-Heading 5
+Body
 -->
-
-<!--
-Heading 6
--->
-
-<!--
-Body 1
--->
-
-Body 1
-
-<!--
-Body 2
--->
-
-<!--
-Body 3
--->
-
+<br>&nbsp; <!--Divider-->
+<p align="left">
+  Body
+</p>
+<br>&nbsp; <!--Divider-->
 <!--
 Hyperlink
 -->
