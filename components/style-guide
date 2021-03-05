@@ -18,7 +18,6 @@ Heading 2
 <br>&nbsp; <!--Divider-->
 <h1 size="7" style="text-align: center;">HEADING 2
 </h1> <!-- this isn't heading 2 -->
-<p>&nbsp; <!-- this is a space -->
 </p>
 <p style="color: #0083BF; text-align: center;">────────
 </p>
