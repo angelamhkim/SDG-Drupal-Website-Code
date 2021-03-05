@@ -1,27 +1,29 @@
 <p style="text-align: center;">&nbsp;</p>
 <h1 size="7" style="text-align: center;">EQUITABLE INVESTMENT: EXPLORING STREET ASSET PLANNING</h1>
-<p>&nbsp;</p>
 <p style="color: rgb(16, 162, 198); text-align: center;">────────</p>
-<p><br>
-  <font size="6">Background</font>
-</p>
-<p style="color: rgb(16, 162, 198)">────────</p>
+<br>
+<h3 align="left">
+  <font size="6">Background
+  </font>
+</h3>
 <p>This summer, we partnered with our city client, StreetsLA, to imagine equitable solutions to urban design. During our 10 week internship we used sustainable development practices, data, and policy to formulate innovative ideas for street asset
   investment prioritization.&nbsp;<br>For this project, our team specifically focused on SDG 9.1 &amp; 9.4, which help further implementation and retrofitting of sustainable infrastructure, SDG 10.2, which seeks to empower the social, economic, and
   political inclusion of all, and SDG 11.b, which encourages development of integrated city policies to mitigate climate change and promote resilience to disasters. To address these SDGs, our team developed an innovative street asset investment tool,
   which incorporates socioeconomic and racial equity metrics into the street asset management decision-making process. Historically, street asset investment is based on physical feasibility. Our project, though, goes beyond physical constraints and
   studies street asset investment in the scope of social demographics and environmental needs of neighborhoods across Los Angeles.</p>
-<p><strong>WHAT DOES STREETSLA DO?</strong></p>
+<h4 align="left">
+  WHAT DOES STREETSLA DO?
+</h4>
 <p><a href="https://streetsla.lacity.org/" target="_blank">StreetsLA</a> is vital to safe streets and a vibrant cityscape in Los Angeles. The Bureau performs a wide range of maintenance activities including pavement preservation, street tree and
   median maintenance, and street furniture upkeep. In addition to their regular maintenance work, StreetsLA has a number of planning initiatives such as “Great Streets”, which seeks to improve the pedestrian experience by increasing safety at
   pedestrian crosswalks, installing street furniture, and planting trees to contribute to LA’s urban forest. Given the bureau’s wide range of initiatives, they are responsible for a large number of above-ground sidewalk and transit-related amenities
   that, in this project, are referred to as ‘<strong>street assets</strong>.’<br>&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p align="left">
-  <font size="6">Our Process</font>
-</p>
-<p style="color: rgb(16, 162, 198)">────────</p>
+<h3 align="left">
+  <font size="6">Our Process
+  </font>
+</h3>
 <p>We divided our project into two distinct workflows––a data stream and a policy stream. On the <strong>policy</strong> <strong>stream</strong>, our team members examined different facets of street asset investments across the world, researching
   case studies from diverse global cities, including Singapore, Lima, and Amsterdam. We also looked at two other West Coast cities: Seattle and Portland. From these case studies, we specifically looked for initiatives and programs that the City of
   Los Angeles could learn from within the themes of pedestrian safety &amp; accessibility, clean streets, shade equity, bikeability, and asset management.<br>On the <strong>data stream</strong>, our team members focused on building a GIS
@@ -49,7 +51,9 @@
   tract. Census tracts with fewer assets received a higher prioritization score. From the categories listed above, we computed a <strong>street asset index score</strong> that follows the same logic of the SE scores, ranging from 1 to 5 and
   indicating an increasing level of need.
 </p>
-<p><strong>VISUALIZATION</strong></p>
+<h4 align="left">
+  VISUALIZATION
+</h4>
 <p>We used a relationship map within ArcGIS Online to visualize our socioeconomic and street asset indices against each other. The pink areas are of particular importance, as they symbolize areas that have both high socioeconomic and street index
   scores, and are thus high priority investment areas.</p>
 <p>
@@ -60,20 +64,25 @@
 <p>
   <meta charset="utf-8">
 </p>
-<p align="left">
-  <font size="6">Policy Recommendations</font>
-</p>
-<p style="color: rgb(16, 162, 198)">────────</p>
+<h3 align="left">
+  <font size="6">Policy Recommendations
+  </font>
+</h3>
 <p>Below are the policy recommendations derived from our research findings and conversations with city clients and experts. Our recommendations align with <a href="https://www.lamayor.org/mayor_garcetti_s_executive_directives" target="_blank">Mayor
     Eric Garcetti’s Executive Directives</a>, including those focused on achieving sustainability and equity throughout L.A.&nbsp;</p>
-<p>Our recommendations are separated into two categories: Assets and Data.&nbsp;<br><strong>Assets</strong>:&nbsp;</p>
+<p>Our recommendations are separated into two categories: Assets and Data.</p>
+<h4 align="left">
+  ASSETS
+</h4>
 <ol>
   <li>Install more bike racks along bike paths in coordination with LADOT and local business owners to determine the need and buy-in for placement&nbsp;</li>
   <li>Establish a process for more frequent pavement condition audits to address disparities in pavement conditions with development projects&nbsp;</li>
   <li>Issue a city-wide, annual springtime street clean up and develop benchmarks for street sweeping operations&nbsp;</li>
   <li>Increase accessibility and availability of public assets related to water access, sanitation, and hygiene&nbsp;</li>
 </ol>
-<p><strong>Data</strong>:&nbsp;</p>
+<h4 align="left">
+  DATA
+</h4>
 <ol>
   <li>Streamline an integrated asset management platform across city departments and bureaus for planning and decision-making.</li>
   <li>Improve data integrity and quality by building out and validating databases on handwashing and hydration stations, APTS, and bus benches, and by using upcoming urban forestry studies to contextualize shade equity and distribution of alternative
