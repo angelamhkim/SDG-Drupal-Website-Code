@@ -1,6 +1,8 @@
 <!--
 This document supplements the Figma Style Guide for sdg.lamayor.org.
 It contains the code to create these headings within Drupal 7.
+
+When implementing these in code, create classes and variables for these to reduce redundant code.
 -->
 
 <!--
