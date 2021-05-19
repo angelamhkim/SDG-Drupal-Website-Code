@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+  <!--code to load bootstrap dependency-->
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,99 +12,95 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   <style>
-    @media (min-width: 768px) {
-      .nine-cols .col-md-1,
-      .nine-cols .col-sm-1,
-      .nine-cols .col-lg-1  {
-        width: 100%;
-        *width: 100%;
-      }
-    }
-
-    @media (min-width: 992px) {
-      .nine-cols .col-md-1,
-      .nine-cols .col-sm-1,
-      .nine-cols .col-lg-1 {
-        width: 11.1111111111%;
-        *width: 11.1111111111%;
-      }
-    }
-    /* highlight col-* */
+    /* highlight col-* for debug purposes*/
     .row [class*='col-'] {
       text-align: center;
       background-color: #cceeee;
       background-clip: content-box;
-      min-height: 130px;
+      min-height: 75px;
       margin-bottom: 15px;
     }
   </style>
 </head>
+
 <body>
-<!--
-code above needed since bootstrap dependency
+  <!--
 don't put the above code in Drupal, just the HTML below.
 -->
 
-<!--Bootstrap Grid-->
-<div class="container-fluid">
-  <div class="row three-col">
-    <div class="col-2 col-sm-2 col-md-2 col-first">
-      <img alt="public sector" class="media-element file-default" src="https://sdg.lamayor.org/sites/g/files/wph1131/f/styles/generic/public/public_sector_icon-01.png?itok=mC4MKVbs" />
-    </div>
-    <div class="col-2 col-sm-2 col-md-2 col-second">
-      <img alt="framework" class="media-element file-default" src="https://sdg.lamayor.org/sites/g/files/wph1131/f/styles/generic/public/framework_icon.gif?itok=Ew_lBDrT" />
-    </div>
-    <div class="col-8 col-sm-8 col-md-8 col-third">
-      Use the SDG framework to keep equity at the forefront of development. Use the SDGs to bridge efforts across jurisdictions (City, County, Regional). Research and identify points of tension within the framework that may impact progress toward the goals, and revise/adjust certain targets to better reflect our local context.
+  <!--Bootstrap Grid-->
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-1"><img alt="Development Goal - No Poverty" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2001.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="sdg/sdg-2"><img alt="Development Goal - Zero Hunger" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2002.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-3"><img alt="Development Goal - Health" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2003.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-4"><img alt="Development Goal - Education" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2004.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-5"><img alt="Development Goal - Gender Equality" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2005.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-6"><img alt="Development Goal - Water and Sanitation" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2006.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-7"><img alt="Development Goal - Affordable Clean Energy" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2007.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-8"><img alt="Development Goal - Work and Economic Growth" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2008.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-9"><img alt="Development Goal - Industry, Innovation, and Infrastructure" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2009.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-10"><img alt="Development Goal - Reduced Inequality" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2010.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-11"><img alt="Development Goal - Sustainable Cities and Communities" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2011.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-12"><img alt="Development Goal - Responsible Consumption and Production" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2012.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-13"><img alt="Development Goal - Climate Action" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2013.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-14"><img alt="Development Goal - Life Below Water" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2014.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-15"><img alt="Development Goal - Life on Land" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2015.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-16"><img alt="Development Goal - Peace, Justice, and Strong Institutions" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2016.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/sdg/sdg-17"><img alt="Development Goal - Partnerships for Goals" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/SDG%20-%2017.png" typeof="Image" width="75" /></a></p>
+      </div>
+
+      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+        <p><a href="/about/global-goals"><img alt="LA SDG Wheel" class="img-fluid" height="75" src="/sites/g/files/wph1756/files/2021-03/LA%20SDG%20Wheel.png" typeof="Image" width="75" /></a></p>
+      </div>
     </div>
   </div>
-</div>
-
-<div class="container-fluid">
-  <div class="row nine-cols">
-    <div class="col-md-1">Col 1</div>
-    <div class="col-md-1">Col 2</div>
-    <div class="col-md-1">Col 3</div>
-    <div class="col-md-1">Col 4</div>
-    <div class="col-md-1">Col 5</div>
-    <div class="col-md-1">Col 6</div>
-    <div class="col-md-1">Col 7</div>
-    <div class="col-md-1">Col 8</div>
-    <div class="col-md-1">Col 9</div>
-    <div class="col-md-1">Col 10</div>
-    <div class="col-md-1">Col 11</div>
-    <div class="col-md-1">Col 12</div>
-    <div class="col-md-1">Col 13</div>
-    <div class="col-md-1">Col 14</div>
-    <div class="col-md-1">Col 15</div>
-    <div class="col-md-1">Col 16</div>
-    <div class="col-md-1">Col 17</div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-xs-6 col-md-4">..</div>
-    <div class="col-xs-6 col-md-4">..</div>
-    <div class="col-xs-6 col-md-4">..</div>
-    <div class="col-xs-6 col-md-4">..</div>
-    <div class="col-xs-6 col-md-4">..</div>
-    <div class="col-xs-6 col-md-4">..</div>
-  </div>
-</div>
-
-<table class="table">
-  <tbody>
-    <tr>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-    </tr>
-  </tbody>
-</table>
