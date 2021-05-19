@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <style>
+    @media (min-width: 768px) {
+      .nine-cols .col-md-1,
+      .nine-cols .col-sm-1,
+      .nine-cols .col-lg-1  {
+        width: 100%;
+        *width: 100%;
+      }
+    }
+
+    @media (min-width: 992px) {
+      .nine-cols .col-md-1,
+      .nine-cols .col-sm-1,
+      .nine-cols .col-lg-1 {
+        width: 11.1111111111%;
+        *width: 11.1111111111%;
+      }
+    }
+    /* highlight col-* */
+    .row [class*='col-'] {
+      text-align: center;
+      background-color: #cceeee;
+      background-clip: content-box;
+      min-height: 130px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+<!--
+code above needed since bootstrap dependency
+don't put the above code in Drupal, just the HTML below.
+-->
+
+<!--Bootstrap Grid-->
+<div class="container-fluid">
+  <div class="row three-col">
+    <div class="col-2 col-sm-2 col-md-2 col-first">
+      <img alt="public sector" class="media-element file-default" src="https://sdg.lamayor.org/sites/g/files/wph1131/f/styles/generic/public/public_sector_icon-01.png?itok=mC4MKVbs" />
+    </div>
+    <div class="col-2 col-sm-2 col-md-2 col-second">
+      <img alt="framework" class="media-element file-default" src="https://sdg.lamayor.org/sites/g/files/wph1131/f/styles/generic/public/framework_icon.gif?itok=Ew_lBDrT" />
+    </div>
+    <div class="col-8 col-sm-8 col-md-8 col-third">
+      Use the SDG framework to keep equity at the forefront of development. Use the SDGs to bridge efforts across jurisdictions (City, County, Regional). Research and identify points of tension within the framework that may impact progress toward the goals, and revise/adjust certain targets to better reflect our local context.
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row nine-cols">
+    <div class="col-md-1">Col 1</div>
+    <div class="col-md-1">Col 2</div>
+    <div class="col-md-1">Col 3</div>
+    <div class="col-md-1">Col 4</div>
+    <div class="col-md-1">Col 5</div>
+    <div class="col-md-1">Col 6</div>
+    <div class="col-md-1">Col 7</div>
+    <div class="col-md-1">Col 8</div>
+    <div class="col-md-1">Col 9</div>
+    <div class="col-md-1">Col 10</div>
+    <div class="col-md-1">Col 11</div>
+    <div class="col-md-1">Col 12</div>
+    <div class="col-md-1">Col 13</div>
+    <div class="col-md-1">Col 14</div>
+    <div class="col-md-1">Col 15</div>
+    <div class="col-md-1">Col 16</div>
+    <div class="col-md-1">Col 17</div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6 col-md-4">..</div>
+    <div class="col-xs-6 col-md-4">..</div>
+    <div class="col-xs-6 col-md-4">..</div>
+    <div class="col-xs-6 col-md-4">..</div>
+    <div class="col-xs-6 col-md-4">..</div>
+    <div class="col-xs-6 col-md-4">..</div>
+  </div>
+</div>
+
+<table class="table">
+  <tbody>
+    <tr>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+    </tr>
+  </tbody>
+</table>
